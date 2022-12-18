@@ -211,6 +211,24 @@ một tập hợp Jnodes có cách dùng phương thức y như một phần t�
 
 </script>
 ```
+# Cây
+```html
+  <div>
+       <div>
+            <p></p>
+            <p></p>
+            <p></p>
+       </div>
+       
+        <div>
+            <p></p>
+            <p></p>
+       </div>
+  </div>
+```
+![Untitled](https://user-images.githubusercontent.com/86332370/208281706-77ed5928-d3f7-43e4-8a68-66bb4a0fec1b.png)
+
+
 ## duyệt cây : children() parent() siblings() prev() next()
 - children | con
 - parent | cha
