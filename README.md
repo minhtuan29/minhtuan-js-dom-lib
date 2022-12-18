@@ -157,7 +157,7 @@ là sự kiện onchange() trong JS DOM, ví dụ làm chức năng preview ản
 - text() : dùng để nhận text của các thẻ chứa nội dung không phải input, ví dụ như ```<p> <button> <span> <div>```
 - html() : dùng để nhận html content của một phần tử
 - val()  : dùng để nhận giá trị của một input
-Ví dụ  
+
 ```js
 <body style="background-color: black;">
 
