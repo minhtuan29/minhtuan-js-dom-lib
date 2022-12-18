@@ -40,7 +40,7 @@ put it into your HTML header
 
     let usersData = [
         { name: "Alex", age: 22 },
-        { name: "Jhon", age: 23 }
+        { name: "John", age: 23 }
     ];
 
     let userData = {name: "Anna", age: 21};
