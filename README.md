@@ -146,7 +146,7 @@ myBtn.addClass("blinkTextAndBorder")
 </script>
 ```
 ## Sự kiện change()
-là sự kiện onchange() trong JS DOM, ví dụ làm chức năng preview ảnh trong form
+là sự kiện onchange() trong JS DOM, ví dụ làm chức năng preview ảnh trong form, đổi value của select box
 ```js
     element.change( (e)=>{}  )
 ```
